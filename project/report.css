@@ -1,0 +1,42 @@
+p.tushar{
+  background-color: lightseagreen;
+  text-align: center;
+  font-size:50;
+}
+p.piyush{
+  background-color: lightseagreen;
+  text-align: center;
+  font-size: 50;
+}
+p.rahul{
+  background-color: lightseagreen;
+  text-align: center;
+  font-size: 50;
+}
+p.week1{
+  font-size: 20;
+  color:black;
+  background-color: cornsilk;
+  text-align: center;
+}
+p.week2{
+  font-size: 25;
+  color: black;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+p.week3{
+  font-size: 30;
+  color:black;
+  background-color: bisque;
+  text-align:center;
+}
+.week3 third{
+  font-size: 35;
+}
+.week2 second{
+  font-size: 30;
+}
+.week1 first{
+  font-size: 25;
+}
