@@ -1,0 +1,20 @@
+p.first{
+text-align: center;
+font-family: cursive;
+font-weight: 500;
+font-style: italic;
+font-size: 90;
+color:rgb(0, 0, 0);
+background-color:rgb(50, 10,250);
+}
+p.description{
+  font-size: 40;
+  font-style: oblique;
+  text-indent:50px;
+  color: rgb(150,100, 150);
+}
+p.second{
+  text-align: right;
+  color:blue;
+  font-size: 20;
+}

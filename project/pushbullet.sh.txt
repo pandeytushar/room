@@ -1,0 +1,5 @@
+#!/bin/bash
+
+API = "o.9Q5OacK9bgBeJpUdTp7qDqHHbOc4kTAh"
+MSG="$1"
+curl -u $API: https://api.pushbullet.com/v2/pushes -d title="Alert" -d body="$MSG"
